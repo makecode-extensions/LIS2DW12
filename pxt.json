@@ -1,0 +1,18 @@
+{
+    "name": "LIS2DW12",
+    "version": "1.0.0",
+    "description": "ST LIS2DW12 motion Sensor I2C extension for makecode.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "_locales/zh/LIS2DW12-strings.json",
+        "LIS2DW12.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

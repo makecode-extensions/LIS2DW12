@@ -1,0 +1,14 @@
+{
+    "LIS2DW12.POWER_ONOFF.ON|block": "开",
+    "LIS2DW12.POWER_ONOFF.OFF|block": "关",
+    "LIS2DW12.Dimension.Strength|block": "强度",
+    "LIS2DW12.Dimension.X|block": "X",
+    "LIS2DW12.Dimension.Y|block": "Y",
+    "LIS2DW12.Dimension.Z|block": "Z",
+    "LIS2DW12.oneshot_mode|block": "oneshot 模式 %oneshot",
+    "LIS2DW12.acceleration|block": "加速度值 (mg) %dim",
+    "LIS2DW12.get|block": "读取全部 (mg)",
+    "LIS2DW12.power|block": "电源 %on",
+    "LIS2DW12.setAccelerometerRange|block": "设置加速度计范围 %range",
+    "LIS2DW12.temperature|block": "温度 %u"
+}
