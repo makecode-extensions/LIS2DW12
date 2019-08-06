@@ -10,8 +10,8 @@ Date:   2019.Jul
 basic.forever(function () {
     serial.writeNumbers(LIS2DW12.get())
     basic.pause(500)
-})```
-
+})
+```
 
 ## License
 
@@ -22,6 +22,5 @@ Copyright (c) 2018, microbit/micropython Chinese community
 ## Supported targets
 
 * for PXT/microbit
-
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
